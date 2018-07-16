@@ -81,7 +81,7 @@
 			</style>
 
 			<div class="header-message">
-				<p>The content of <a href="http://aidtransparency.net/">aidtransparency.net</a> has been merged into IATI’s brand new website: <a href="http://iatistandard.org/">iatistandard.org</a> and <a href="http://aidtransparency.net/">aidtransparency.net</a> will be switched off on Friday 20 July. Please email <a href="mailto:support@iatistandard.org">support@iatistandard.org</a> with any questions about this move</p>
+				<p>The content of <a href="http://aidtransparency.net/">aidtransparency.net</a> has been merged into IATI’s brand new website: <a href="http://iatistandard.org/">iatistandard.org</a>. <a href="http://aidtransparency.net/">aidtransparency.net</a> will be switched off on Friday 20 July. Please email <a href="mailto:support@iatistandard.org">support@iatistandard.org</a> with any questions about this move</p>
 			</div>
 
             <div class="header-wrapper">
